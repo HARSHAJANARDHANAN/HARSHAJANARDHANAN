@@ -8,7 +8,7 @@ I am interested in turning raw data into useful insights through data cleaning, 
 
 **Data Analysis:** SQL, MySQL, Excel, Python
 **Visualization:** Power BI, Tableau
-**Python Libraries:** Pandas, NumPy, Matplotlib
+**Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 
 ### 📊 Featured Projects
 

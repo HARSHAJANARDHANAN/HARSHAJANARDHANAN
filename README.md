@@ -6,8 +6,10 @@ I am interested in turning raw data into useful insights through data cleaning, 
 
 ### 🛠️ Skills
 
-**Data Analysis:** SQL, MySQL, Excel, Python
+**Data Analysis:** SQL, MySQL, Excel, Python, Machine Learning 
+
 **Visualization:** Power BI, Tableau
+
 **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 
 ### 📊 Featured Projects

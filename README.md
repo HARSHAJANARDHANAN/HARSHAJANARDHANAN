@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Harsha Janardhanan 👋
 
-<!--
-**HARSHAJANARDHANAN/HARSHAJANARDHANAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | SQL | Power BI | Excel | Python
 
-Here are some ideas to get you started:
+I am interested in turning raw data into useful insights through data cleaning, SQL analysis, and interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+**Data Analysis:** SQL, MySQL, Excel, Python
+**Visualization:** Power BI, Tableau
+**Python Libraries:** Pandas, NumPy, Matplotlib
+
+### 📊 Featured Projects
+
+* **Financial Fraud Detection Analysis** — SQL, Power BI, Excel, Python
+* **Power BI Projects** — Interactive dashboards and data analysis
+* **Excel Data Analytics Projects** — Data cleaning, analysis, and dashboards
+* **Generative AI Tools Tableau Analysis** — Tableau visualization and analysis
+
+### 📫 Connect With Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/harsha-janardhanan-3aa9a1298)
+
+📧 [harshajanardhanan2@gmail.com](mailto:harshajanardhanan2@gmail.com)
